@@ -1,0 +1,1 @@
+This is a simple Microprocessor & Assembly Language Project. The project is about an IQ game. The project is for Microprocessor & Assembly Language course for my University (Daffodil International University) .
